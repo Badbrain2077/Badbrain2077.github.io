@@ -3,7 +3,7 @@ site_url: https://Badbrain2077.github.io
 site_author: Badbrain
 
 theme:
-  # logo: assets/edge.png
+  # logo: assets/面无表情.png
   favicon: assets/1.png
   name: material
   language: zh
@@ -125,11 +125,9 @@ extra:
     #   link: https://linkedin.com/in/squidfunk/
     - icon: fontawesome/brands/pinterest
       link: https://www.pinterest.com/Badbrain2077/
-    - icon: fontawesome/brands/youtube
-      link: https://space.bilibili.com/13450026
     - icon: fontawesome/solid/at
       link: mailto:<1522975492@qq.com>
 
-copyright: Copyright &copy; 2020-2021 Badbrain
+copyright: Copyright &copy; 2020-... Badbrain
 
 

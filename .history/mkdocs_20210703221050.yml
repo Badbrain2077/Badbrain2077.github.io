@@ -1,10 +1,10 @@
-site_name: Badbrain Wiki 🔥 (R18) 🔞
+site_name: Badbrain Wiki🧠
 site_url: https://Badbrain2077.github.io
 site_author: Badbrain
 
 theme:
-  # logo: assets/edge.png
-  favicon: assets/1.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
   language: zh
   palette:
@@ -25,7 +25,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
-    # - toc.integrate
+    
     
 markdown_extensions:
   - admonition
@@ -47,9 +47,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-      options:
-        custom_icons:
-          - overrides/.icons
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
@@ -114,22 +111,18 @@ extra:
     property: !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Badbrain2077
+      link: https://github.com/squidfunk
     - icon: fontawesome/brands/zhihu
-      link: https://www.zhihu.com/people/yang-zheng-jun-59-78
+      link: https://gitter.im/squidfunk/mkdocs-material
     - icon: fontawesome/brands/weibo
-      link: https://weibo.com/6616315268/profile?rightmod=1&wvr=6&mod=personinfo
+      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
-    # - icon: fontawesome/brands/qq
-    #   link: https://linkedin.com/in/squidfunk/
+    - icon: fontawesome/brands/qq
+      link: https://linkedin.com/in/squidfunk/
     - icon: fontawesome/brands/pinterest
-      link: https://www.pinterest.com/Badbrain2077/
-    - icon: fontawesome/brands/youtube
-      link: https://space.bilibili.com/13450026
-    - icon: fontawesome/solid/at
-      link: mailto:<1522975492@qq.com>
+      link: https://instagram.com/squidfunk
 
-copyright: Copyright &copy; 2020-2021 Badbrain
+copyright: Copyright &copy; 2019-2021 Badbrain
 
 

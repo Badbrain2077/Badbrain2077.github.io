@@ -1,10 +1,10 @@
-site_name: Badbrain Wiki 🔥 (R18) 🔞
+site_name: Badbrain Wiki🧠
 site_url: https://Badbrain2077.github.io
 site_author: Badbrain
 
 theme:
-  # logo: assets/edge.png
-  favicon: assets/1.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
   language: zh
   palette:
@@ -25,7 +25,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
-    # - toc.integrate
+    - toc.integrate
     
 markdown_extensions:
   - admonition
@@ -125,11 +125,7 @@ extra:
     #   link: https://linkedin.com/in/squidfunk/
     - icon: fontawesome/brands/pinterest
       link: https://www.pinterest.com/Badbrain2077/
-    - icon: fontawesome/brands/youtube
-      link: https://space.bilibili.com/13450026
-    - icon: fontawesome/solid/at
-      link: mailto:<1522975492@qq.com>
 
-copyright: Copyright &copy; 2020-2021 Badbrain
+copyright: Copyright &copy; 2020-... Badbrain
 
 

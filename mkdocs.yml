@@ -1,6 +1,12 @@
 site_name: Badbrain Wiki 🔥 (R18) 🔞
 site_url: https://Badbrain2077.github.io
 site_author: Badbrain
+site_description: >-
+  我的个人 Wiki 积累知识副本, 对抗遗忘🤔
+
+repo_name: Badbrain2077/MkDocs-Wiki
+repo_url: https://github.com/Badbrain2077/Badbrain2077.github.io
+edit_uri: ""
 
 theme:
   # logo: assets/edge.png
@@ -15,17 +21,27 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: orange
-      accent: orange
+      primary: black
+      accent: black
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  # font:
+  #   text: Roboto Mono
+  #   code: Roboto Mono
   include_search_page: false
   search_index_only: true
   features:
     - navigation.tabs
     - navigation.top
     # - toc.integrate
+    - content.tabs.link
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
     
 markdown_extensions:
   - admonition
@@ -68,36 +84,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - admonition
-  - codehilite:
-      guess_lang: false
-      linenums: false
-  - toc:
-      permalink: true
-  - footnotes
-  - meta
-  - def_list
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_png
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist
-  - pymdownx.tilde
-  
-# repo_name: GitHub
-
-# google_analytics:
-#   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-#   - auto
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
@@ -108,7 +94,7 @@ extra_css:
 extra:
   # generator: true
   search:
-    language: 'jp'
+    language: 'zh'
   analytics:
     provider: google
     property: !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
@@ -120,7 +106,7 @@ extra:
     - icon: fontawesome/brands/weibo
       link: https://weibo.com/6616315268/profile?rightmod=1&wvr=6&mod=personinfo
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
+      link: https://twitter.com/Badbrai67695095?s=09
     # - icon: fontawesome/brands/qq
     #   link: https://linkedin.com/in/squidfunk/
     - icon: fontawesome/brands/pinterest
@@ -132,4 +118,9 @@ extra:
 
 copyright: Copyright &copy; 2020-2021 Badbrain
 
+plugins:
+  - search:
+      lang:
+        - en
+        - ja
 

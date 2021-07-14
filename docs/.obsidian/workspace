@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "写作/新街区47.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "preview"
           }
         },
         "group": "fa5d11338c70ea84"
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "写作/新街区47.md",
-            "mode": "preview"
+            "file": "index.md",
+            "mode": "source"
           }
         },
         "group": "fa5d11338c70ea84"
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a429f175229fbcc6",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作/新街区47.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作/新街区47.md"
+                "file": "index.md"
               }
             }
           },
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作/新街区47.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +142,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "20f6191f7b53bb45",
+  "active": "65efe3870d8d47bf",
   "lastOpenFiles": [
+    "index.md",
     "写作/新街区47.md",
     "写作/向导不想回小屋.md",
     "写作/什么是老二次元.md",
@@ -151,7 +153,6 @@
     "首页/index.md",
     "首页/免责声明.md",
     "首页/个人媒体.md",
-    "生活/blog的末路.md",
-    "生活/又是美好的一天2021年4月24日.md"
+    "生活/blog的末路.md"
   ]
 }

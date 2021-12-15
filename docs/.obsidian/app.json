@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "smartIndentList": false,
+  "lineWrap": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}

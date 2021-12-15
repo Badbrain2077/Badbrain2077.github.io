@@ -1,3 +1,5 @@
+# Galgame与未来的艺术（其实是VN）
+
 原文地址：
 
 [Galgame与未来的艺术 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/341564397)

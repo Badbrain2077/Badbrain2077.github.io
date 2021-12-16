@@ -4,7 +4,7 @@
 
 [Galgame与未来的艺术 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/341564397)
 
-[Galgame与未来的艺术 - 奶牛关cowlevel.net/article/2067477![img](Untitled%201.assets/v2-8b1937851f1664bb649c585dfb0c750e_180x120.jpg)](https://cowlevel.net/article/2067477)
+[Galgame与未来的艺术 - 奶牛关](https://cowlevel.net/article/2067477)
 
 这里的很多内容我在知乎或者其他地方已经讲过了，不过作为一个总结，还是复读一遍好了。本文内容只代表我的个人观点，不代表Lunatic Works制作组，更不代表CnGal资料站等其他组织。
 

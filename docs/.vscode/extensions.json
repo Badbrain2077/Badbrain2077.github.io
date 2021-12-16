@@ -1,3 +1,5 @@
 {
-    "recommendations": []
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-zh-hans"
+    ]
 }

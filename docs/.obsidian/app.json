@@ -6,5 +6,7 @@
   "lineWrap": false,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

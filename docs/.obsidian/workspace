@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02-美术/美术资源.md",
-            "mode": "preview"
+            "file": "10-草稿/UE对不起.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-美术/美术资源.md",
+                "file": "10-草稿/UE对不起.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-美术/美术资源.md"
+                "file": "10-草稿/UE对不起.md"
               }
             }
           },
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-美术/美术资源.md",
+                "file": "10-草稿/UE对不起.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +131,15 @@
   },
   "active": "20f6191f7b53bb45",
   "lastOpenFiles": [
+    "10-草稿/UE对不起.md",
+    "10-草稿/test.md",
+    "index.md",
     "02-美术/美术资源.md",
     "02-美术/大笔记/斋藤直葵/作画流程.md",
     "02-美术/大笔记/斋藤直葵/线.md",
     "02-美术/大笔记/斋藤直葵/画面结构.md",
     "02-美术/大笔记/斋藤直葵/二次元头发.md",
     "02-美术/大笔记/斋藤直葵/二次元脸蛋.md",
-    "02-美术/大笔记/斋藤直葵/二次元表情.md",
-    "02-美术/大笔记/金姐人体/金姐人体2.md",
-    "02-美术/大笔记/金姐人体/金姐人体1.md",
-    "02-美术/大笔记/Krenz三宝/题外话.md"
+    "02-美术/大笔记/斋藤直葵/二次元表情.md"
   ]
 }

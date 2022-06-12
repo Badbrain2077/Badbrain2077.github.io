@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "20f6191f7b53bb45",
+        "id": "2dcdaa59fae1d575",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10-草稿/UE对不起.md",
-            "mode": "preview",
+            "file": "index.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -56,13 +56,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ae8b7b3eada8e66e",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 372
   },
   "right": {
     "id": "a429f175229fbcc6",
@@ -78,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-草稿/UE对不起.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-草稿/UE对不起.md"
+                "file": "index.md"
               }
             }
           },
@@ -105,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-草稿/UE对不起.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,23 +131,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 164.33334350585938
   },
-  "active": "20f6191f7b53bb45",
+  "active": "2dcdaa59fae1d575",
   "lastOpenFiles": [
+    "index.md",
+    "02-编剧/剧本/Big Fish.fountain",
+    "02-编剧/剧本/格式测试-小圆.fountain",
+    "02-编剧/剧本/编剧初始结构-简洁版.md",
+    "02-编剧/剧本/什么是Fountain.md",
+    "03-Gal/Renpy小技巧收集/被诅咒的章鱼.md",
+    "10-草稿/版权草案.md",
     "10-草稿/UE对不起.md",
     "10-草稿/test.md",
-    "index.md",
-    "02-美术/美术资源.md",
-    "02-美术/大笔记/斋藤直葵/作画流程.md",
-    "02-美术/大笔记/斋藤直葵/线.md",
-    "02-美术/大笔记/斋藤直葵/画面结构.md",
-    "02-美术/大笔记/斋藤直葵/二次元头发.md",
-    "02-美术/大笔记/斋藤直葵/二次元脸蛋.md",
-    "02-美术/大笔记/斋藤直葵/二次元表情.md"
+    "02-美术/美术资源.md"
   ]
 }

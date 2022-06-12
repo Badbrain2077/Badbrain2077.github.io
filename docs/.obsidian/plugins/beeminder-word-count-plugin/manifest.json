@@ -1,0 +1,10 @@
+{
+	"id": "beeminder-word-count-plugin",
+	"name": "Beeminder Word Count Plugin",
+	"version": "1.0.1",
+	"minAppVersion": "0.9.12",
+	"description": "This lets you post word counts directly from obsidian file to Beeminder.",
+	"author": "Yuta Miyama",
+	"authorUrl": "https://twitter.com/kenzan100",
+	"isDesktopOnly": false
+}

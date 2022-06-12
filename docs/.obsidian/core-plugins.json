@@ -10,11 +10,13 @@
   "daily-notes",
   "note-composer",
   "command-palette",
+  "slash-command",
+  "editor-status",
   "starred",
   "markdown-importer",
   "outline",
   "word-count",
   "slides",
-  "file-recovery",
-  "publish"
+  "open-with-default-app",
+  "file-recovery"
 ]

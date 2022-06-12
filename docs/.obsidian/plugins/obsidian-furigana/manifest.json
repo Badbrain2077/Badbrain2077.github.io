@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-furigana",
+	"name": "Furigana",
+	"version": "0.0.1",
+	"minAppVersion": "0.11.0",
+	"description": "Helper plugin for furigana and <ruby>",
+	"author": "Koppa",
+	"authorUrl": "https://github.com/uonr",
+	"isDesktopOnly": false
+}

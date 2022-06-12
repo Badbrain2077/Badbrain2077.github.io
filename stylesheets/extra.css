@@ -1,0 +1,11 @@
+blockquote {
+    /* padding: 15px; */
+    /* background: rgb(249, 255, 255); */
+    border-radius: 3px;
+    /* border-color: #4051b5; */
+    /* background-color: var(--borders); */
+  }
+  
+  img {
+    border-radius: 5px;
+}

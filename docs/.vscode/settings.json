@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/iOS": true,
+        ".obsidian": true,
+        ".trash": true,
+    }
+}

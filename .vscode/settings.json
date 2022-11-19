@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/iOS": true,
+        "docs/.obsidian": true,
+        "docs/.trash": true,
+        "docs/.vscode": true,
+        ".github": true,
+        "overrides": true,
+        
+    }
+}

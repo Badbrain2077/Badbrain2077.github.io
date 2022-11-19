@@ -15,14 +15,14 @@
 # .env.test.local
 # .env.production.local
 
-# npm-debug.log*
+# npm-debug.log*ｗ
 # yarn-debug.log*
 # yarn-error.log*
 
 # # Blog
 # .vscode
 .git
-.github
+# .github
 .history
 /docs/.obsidian
 /docs/.history

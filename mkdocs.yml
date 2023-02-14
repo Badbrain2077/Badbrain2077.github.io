@@ -136,7 +136,7 @@ extra:
     - icon: fontawesome/solid/at
       link: mailto:<1522975492@qq.com>
 
-copyright: Copyright &copy; 2020-2022 Badbrain
+copyright: Copyright &copy; 2020-2023 Badbrain
 
 plugins:
   - search:

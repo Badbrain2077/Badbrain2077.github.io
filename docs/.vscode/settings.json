@@ -7,5 +7,9 @@
         "**/iOS": true,
         ".obsidian": true,
         ".trash": true,
+        "**/*.rpyc": true,
+        "**/*.rpa": true,
+        "**/*.rpymc": true,
+        "**/cache/": true
     }
 }

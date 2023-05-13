@@ -1,0 +1,66 @@
+<meta name="viewport" content="width=device-width">
+<style>
+    html{
+    background: rgb(0, 0, 0);
+    display: block;
+    margin: 0 auto;
+    }
+    div{
+        display: block;
+        margin: 0 auto;
+        /* position: relative; */
+        /* position: fixed; */
+        /* margin: 0 90px; */
+        /* right: 0.5; */
+        /* text-align: center; */
+        width: 400px;
+        height: 400px;
+        /* bottom: 0; */
+        /* position:fixed; */
+        /* bottom:10px; */
+        /* left:10px */
+        /* transform-origin: 100% 100%; 从右下开始变换 */
+    }
+    img {
+        display: block;
+        margin: auto;
+        /* text-align: center; */
+        width: 350px;
+    }
+    p {
+        text-align: center;
+        color: aliceblue;
+    }
+    H3 {
+        text-align: center;
+        color: aliceblue;
+    }
+</style>
+    
+<div>
+<img src="[lab.magiconch.com][福音戰士標題生成器]-1662904311091.jpg" width="240" >
+
+        <div id="sakana-widget"></div>
+
+        <script>
+            function initSakanaWidget() {
+            // new SakanaWidget().mount('#sakana-widget');
+            const Ayaka = SakanaWidget.getCharacter('takina');
+
+            Ayaka.image = `Ayaka.png`;
+            SakanaWidget.registerCharacter('Ayaka', Ayaka);
+            new SakanaWidget({ character: 'Ayaka',autoFit: true}).setState({ i: 0.01, d: 0.99, size: 400, autoFit: true}).mount('#sakana-widget');
+            }
+        </script>
+        <script
+            async
+            onload="initSakanaWidget()"
+            src="https://cdn.jsdelivr.net/npm/sakana-widget@2.2.2/lib/sakana.min.js"
+        ></script>
+
+    <h3>龟龟模拟器</h3>
+    <p style="clear:both;text-align:center;">大佬的石蒜模拟器十分有趣</p>
+    <p style="clear:both;text-align:center;">所以我也换个小绫华的图</p>
+    <p style="clear:both;text-align:center;">卡哇伊😊~~</p>
+        
+</div>

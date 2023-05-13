@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8db6da9439dfcfbf","x":-1140,"y":-400,"width":309,"height":280,"color":"5","type":"file","file":"04-其他/日本語/二次元梗/ジングルベル - 日文 圣诞歌.md"},
+		{"id":"36a478c04587a813","x":-1110,"y":-15,"width":250,"height":60,"type":"text","text":"test"}
+	],
+	"edges":[
+		{"id":"30ea95b565609496","fromNode":"8db6da9439dfcfbf","fromSide":"bottom","toNode":"36a478c04587a813","toSide":"top"}
+	]
+}
